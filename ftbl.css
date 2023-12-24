@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: brown;
+}
+.ft1{
+    width: 600px;
+    height: 500px;
+    margin-left: 417px;
+}
+.ft2{
+    width: 600px;
+    height: 500px;
+    margin-left: 417px;
+    margin-top: 5px;
+}
+.ft3{
+    width: 600px;
+    height: 500px;
+    margin-left: 417px;
+    margin-top: 10px;
+}
+body{
+    border: 3px solid black;
+    background-color: beige;
+}
+]
